@@ -8,5 +8,6 @@ public class Main {
         System.out.println("我要修改数据");
         System.out.println("李四要数据修改");
         System.out.println("李四再次闲着蛋疼要数据修改");
+        System.out.println("a再次闲着蛋疼要数据修改");
     }
 }
